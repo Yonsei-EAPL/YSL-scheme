@@ -21,7 +21,7 @@
 !     Corresponding: 
 ! Junhong Lee (junhonglee@yonsei.ac.kr)
 ! Jeongwon Kim (kimjw3855@yonsei.ac.kr)
-! Jinkyu Hong (jhong@yonsei.kr / hong.jinkyu@gmail.com) 
+! Jinkyu Hong (jhong@yonsei.ac.kr / hong.jinkyu@gmail.com) 
 !
 ! https://eapl.yonsei.ac.kr
 !
