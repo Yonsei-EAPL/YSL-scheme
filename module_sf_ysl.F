@@ -19,7 +19,7 @@
 !    07/22/2024     Jeongwon Kim     code arranging
 !
 !     Corresponding: 
-! Junhong Lee (junhonglee@yonsei.ac.kr)
+! Junhong Lee (junhong.lee@mpimet.mpg.de)
 ! Jeongwon Kim (kimjw3855@yonsei.ac.kr)
 ! Jinkyu Hong (jhong@yonsei.ac.kr / hong.jinkyu@gmail.com) 
 !
