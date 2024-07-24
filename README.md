@@ -1,7 +1,7 @@
 # YSL-scheme
 
 1. Yonsei surface layer (YSL) scheme based on the roughness sublayer theory (Harman and Finnegan, 2007; Lee et al. 2020)
-2. Original Code Development by Dr. Junhong Lee (junhong.lee@mpimet.mpg.de/junhonglee89@gmail.com) and Prof. Jinkyu Hong (jhong@yonsei.ac.kr)   
+2. Original Code Development by Dr. Junhong Lee (junhong.lee@mpimet.mpg.de) and Prof. Jinkyu Hong (jhong@yonsei.ac.kr)   
 Debugging and recoding during the work based on this code (Kim et al. 2024) by Mr. Jeongwon Kim (kimjw3855@yonsei.ac.kr)
 - Note that codes in the EAPL GitHub are only updated regularly.
 
@@ -14,7 +14,7 @@ Debugging and recoding during the work based on this code (Kim et al. 2024) by M
       07/22/2024     Jeongwon Kim        code arranging
 
 3. Corresponding:   
-Junhong Lee (junhonglee@yonsei.ac.kr)   
+Junhong Lee (junhong.lee@mpimet.mpg.de)   
 Jeongwon Kim (kimjw3855@yonsei.ac.kr)   
 Jinkyu Hong (jhong@yonsei.kr / hong.jinkyu@gmail.com)    
 https://eapl.yonsei.ac.kr
