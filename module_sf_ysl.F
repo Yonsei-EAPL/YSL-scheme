@@ -2,7 +2,7 @@
 ! Yonsei surface layer (YSL) scheme based on the roughness sublayer theory 
 ! (Harman and Finnegan, 2007; Lee et al. 2020)
 !
-! Original Code Development by Dr. Junhong Lee (junhong.lee@mpimet.mpg.de/junhonglee89@gmail.com) 
+! Original Code Development by Dr. Junhong Lee (junhong.lee@mpimet.mpg.de) 
 ! and Prof. Jinkyu Hong (jhong@yonsei.ac.kr)
 !
 ! Debugging and recoding during the work based on this code (Kim et al. 2024) 
